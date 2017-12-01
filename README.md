@@ -1,0 +1,2 @@
+# jdl
+Jhipster jdl creation
